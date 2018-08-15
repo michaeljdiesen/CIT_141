@@ -1,0 +1,1 @@
+Write a program that reads the number of students in the class, then reads each student's name and his/her test score. Print out each student name, test score and grade, and the average score of the whole class. The program must use vectors and loops for the implementation. The grades are determined as follows: A >= 90; 80 <= B < 90; 70 <= C < 80; 60 <= D < 70; F < 60.

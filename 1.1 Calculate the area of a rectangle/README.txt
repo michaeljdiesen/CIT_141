@@ -1,0 +1,1 @@
+Write a program that read in the length and width of a rectangle, calculate the area, and output the area value. The program shall also prompt input/output messages for the user.

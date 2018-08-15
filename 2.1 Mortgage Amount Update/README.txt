@@ -1,0 +1,1 @@
+Write a program that inputs: (1) Initial mortgage amount (2) interest rate (3) Yearly amount that you pay to the mortgage (assuming that you pay it once a year). Calculate that three year later (i.e., after you pay the mortgage three times) your mortgage amount.

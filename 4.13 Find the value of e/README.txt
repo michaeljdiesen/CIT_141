@@ -1,0 +1,1 @@
+The approximate value of e is determined as 1 + 1/1! + 1/2! + 1/3! + 1/4! + … + 1/n! with an error less than 1/n!. Write a program to input the allowed error value. Use that value to find n, and then use that n to find the approximated e value.
